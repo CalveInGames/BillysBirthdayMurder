@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/BillyBirfday.unity
     guid: 15a905ed522493247ba35019f677e853
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/License To Fluff/LicenseToFluff.unity
-    guid: 99d4c59e5d4ba884cbd600a17c66b1bf
+    path: Assets/License To Fluff/LicenseToFluffScene.unity
+    guid: 985b7527cd563b345967acd43630b940
   m_configObjects: {}
