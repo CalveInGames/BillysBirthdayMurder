@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
-    path: Assets/License To Fluff/LicenseToFluffScene.unity
+  - enabled: 0
+    path: Assets/ThiefAndTheMoon/ThiefAndTheMoon.unity
     guid: 985b7527cd563b345967acd43630b940
   m_configObjects: {}
